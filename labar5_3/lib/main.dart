@@ -1,14 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-void kvadrat(index){
-  pow(index, 2);
-}
-
 void main() {
   runApp(const MyApp());
 }
-
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -25,8 +20,11 @@ class MyApp extends StatelessWidget {
         body: ListView.builder(
             itemBuilder: (context, index) {
               if (index.isOdd) {
-                return Divider();}
-              return Text('2 ^ $index = ${pow(2, index)}');
+                return Divider();
+              } else {
+                int nechet = index ~/ 2;
+                return Text('2 ^ $nechet = ${pow(2, nechet)}');
+              }
             }
         ),
       ),
