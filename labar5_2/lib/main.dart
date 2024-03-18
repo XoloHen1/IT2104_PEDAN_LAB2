@@ -17,6 +17,11 @@ class MyApp extends StatelessWidget {
           title: Text('Список элементов'),
           backgroundColor: Colors.green,
         ),
+        body: ListView.builder(
+          itemBuilder: (context, index) {
+            return Text('Строка $index');
+          }
+        ),
       ),
     );
   }
