@@ -17,6 +17,15 @@ class MyApp extends StatelessWidget {
           title: Text('Список элементов'),
           backgroundColor: Colors.green,
         ),
+        body: ListView(
+          children: const [
+            Text('0000'),
+            Divider(),
+            Text('0001'),
+            Divider(),
+            Text('0010')
+          ],
+        ),
       ),
     );
   }
