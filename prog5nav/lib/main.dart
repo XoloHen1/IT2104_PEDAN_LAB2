@@ -38,7 +38,7 @@ class HomeScreen extends StatelessWidget {
                   MaterialPageRoute(builder: (context) => List1Screen()),
                 );
               },
-              child: Text('List 1'),
+              child: Text('Простой список'),
             ),
             ElevatedButton(
               onPressed: () {
@@ -47,7 +47,7 @@ class HomeScreen extends StatelessWidget {
                   MaterialPageRoute(builder: (context) => List2Screen()),
                 );
               },
-              child: Text('List 2'),
+              child: Text('Бесконечный список'),
             ),
             ElevatedButton(
               onPressed: () {
@@ -56,7 +56,7 @@ class HomeScreen extends StatelessWidget {
                   MaterialPageRoute(builder: (context) => List3Screen()),
                 );
               },
-              child: Text('List 3'),
+              child: Text('Бесконечный список возведения в квадрат'),
             ),
           ],
         ),
