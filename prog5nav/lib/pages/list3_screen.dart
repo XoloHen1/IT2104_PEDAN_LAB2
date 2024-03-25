@@ -12,6 +12,12 @@ class List3Screen extends StatelessWidget {
         appBar: AppBar(
           title: Text('Список элементов'),
           backgroundColor: Colors.green,
+          leading: IconButton(
+            icon: Icon(Icons.arrow_back),
+            onPressed: (){
+              Navigator.pop(context);
+            },
+          ),
         ),
         body: ListView.builder(
             itemBuilder: (context, index) {

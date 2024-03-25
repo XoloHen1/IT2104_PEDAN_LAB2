@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'list1_screen.dart';
-import 'list2_screen.dart';
-import 'list3_screen.dart';
+import 'pages/list1_screen.dart';
+import 'pages/list2_screen.dart';
+import 'pages/list3_screen.dart';
 
 void main() {
   runApp(MyApp());
