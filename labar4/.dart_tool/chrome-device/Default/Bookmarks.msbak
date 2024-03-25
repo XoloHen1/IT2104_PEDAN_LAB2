@@ -1,0 +1,66 @@
+{
+   "checksum": "665af1f2929b4b782a3341d47f678e4a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13343758208270152",
+            "date_last_used": "0",
+            "guid": "85a152f7-8fe8-4026-9d8a-7b8651493f09",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Скачать Conan Exiles (по сети на пиратке) бесплатно на ПК торрент",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://thebyrut.org/18633-conan-exiles-po-seti-na-piratke-besplatno.html"
+         }, {
+            "date_added": "13346965854985781",
+            "date_last_used": "0",
+            "guid": "38c186c8-b654-45c0-ad73-556dc1302c34",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Надстройки Microsoft Edge — browsec",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://microsoftedge.microsoft.com/addons/search/browsec"
+         } ],
+         "date_added": "13354566231751674",
+         "date_last_used": "0",
+         "date_modified": "13346965854985781",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель избранного",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13354566231751676",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другое избранное",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13354566231751677",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Избранное на мобильных устройствах",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCBQvdymOAQAAEgAqGG5TdEFMaWN0RUtZQUlOVi8yU0sxS3c9PUgDoAYMEqcBCAgSogEKHExyWHNJVVFDSUdzSTFUNHNjS0NhU3BRRSt6VT0SJDM4YzE4NmM4LWI2NTQtNDVjMC1hZDczLTU1NmRjMTMwMmMzNBgAIAIoAjCF/9vL4jE4gvDIo8YxQPG628viMUocdTBxNmt0YUo3Smp1Q01NN0ltSGdZUHRoSEtzPVoeIhxxVm1NWXdYM3dTWXlCdEFkYmIwcmVkc0NPWlU9ZVZ1EnkSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNjBjYTRhYzEtMjRmMi01ZmJhLWFmYzUtOGUwOWZmZjY3ZjcyGAAgACgAMIzVnuaYMTii2p7mmDFAotqe5pgxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRiNjk4ZWIwNC02ZWRmLTVkNmMtODg0ZS1lMzRjMTJkN2E5NWMYACAAKAAwjdWe5pgxOMPanuaYMUDD2p7mmDFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqcBCAcSogEKHDJEem1zOEtZRit1bDV2cjY2Y2lZbStWRllEOD0SJDg1YTE1MmY3LThmZTgtNDAyNi05ZDhhLTdiODY1MTQ5M2YwORgAIAIoAjCE/9vL4jE4hOWFqroxQPG628viMUocMkN3VGEzMmgxak9WNzdHbko2ckFSYVdGYmVvPVoeIhxTUjlJYW8za28vdEthYnBUVlRXV1J4YnFPTlE9Zd8DGdYSiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMTVmMDk0NzgtMDJiNi01MDBmLWI5ZTMtYTY2ZTMyN2I1NGJhGAAgACgAMJLVnuaYMTj82p7mmDFA/Nqe5pgxShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
+   "version": 1
+}
